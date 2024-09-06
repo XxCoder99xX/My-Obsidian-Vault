@@ -231,13 +231,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "0678ae860f706c9d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,10 +261,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca1f91352d7e6ea4",
+  "active": "15ee3ac31a98bc10",
   "lastOpenFiles": [
     "01 - Projects/SNC 4M - Lab No. 1/Identifying Macromolecules in Food Lab.md",
     "06 - Daily/20240905.md",
