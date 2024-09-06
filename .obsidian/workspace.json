@@ -97,7 +97,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -151,8 +152,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,6 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "06 - Daily/20240905.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,6 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "06 - Daily/20240905.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +223,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "06 - Daily/20240905.md"
+              }
             }
           },
           {
@@ -245,7 +249,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 903.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,7 +269,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15ee3ac31a98bc10",
+  "active": "56788e890b9c1fac",
   "lastOpenFiles": [
     "01 - Projects/SNC 4M - Lab No. 1/Identifying Macromolecules in Food Lab.md",
     "06 - Daily/20240905.md",
