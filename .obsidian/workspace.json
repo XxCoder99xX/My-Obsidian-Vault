@@ -40,30 +40,6 @@
             }
           },
           {
-            "id": "949d96b17cf1425f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Homework/Chemistry/Chemistry - Pg. 19 & 21, 3-5 & 3-10 (-6).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56788e890b9c1fac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Daily/20240905.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "11432bb0b8d643b3",
             "type": "leaf",
             "state": {
@@ -98,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Daily/20240905.md",
+                "file": "02 - Areas/Homework/Chemistry/Chemistry - Pg. 19 & 21, 3-5 & 3-10 (-6).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Daily/20240905.md",
+                "file": "02 - Areas/Homework/Chemistry/Chemistry - Pg. 19 & 21, 3-5 & 3-10 (-6).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Daily/20240905.md"
+                "file": "02 - Areas/Homework/Chemistry/Chemistry - Pg. 19 & 21, 3-5 & 3-10 (-6).md"
               }
             }
           },
@@ -269,38 +245,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0678ae860f706c9d",
+  "active": "b45040ff461227c7",
   "lastOpenFiles": [
-    "01 - Projects/SNC 4M - Lab No. 1/Identifying Macromolecules in Food Lab.md",
-    "06 - Daily/20240905.md",
+    "03 - Resources/Blue Zones/Three Types of Happiness/Humility - Grateful for the Small Things.md",
+    "03 - Resources/Blue Zones/Three Types of Happiness/Purpose - Reason to Live.md",
+    "03 - Resources/Blue Zones/Three Types of Happiness/Pleasure - The Material Life.md",
+    "03 - Resources/Benedict Solution.md",
+    "04 - Permanent/Isotopic Notation.md",
     "02 - Areas/Homework/Chemistry/Chemistry - Pg. 19 & 21, 3-5 & 3-10 (-6).md",
+    "04 - Permanent/Alpha - Exercise.md",
+    "04 - Permanent/Alejandro Zuniga.md",
+    "Football.md",
+    "Xi - Books.md",
+    "03 - Resources/Blue Zones/The Blue Zones of Happiness.md",
+    "Workout Routine.md",
+    "Nutritional Guide & Requirements.md",
+    "Legs - ...Legs..md",
+    "Genesis..md",
+    "Gamma - Clubs.md",
+    "Film.md",
+    "Delta - Journal Entries.md",
+    "06 - Daily/20240905.md",
+    "README.md",
+    "New folder",
+    "06 - Daily/20240904.md",
+    "01 - Projects/SNC 4M - Lab No. 1/Identifying Macromolecules in Food Lab.md",
     "03 - Resources/Excalidraw Shit/Gold-107.md",
     "02 - Areas/Homework/Chemistry/Chemistry - Pg. 19, Q. 1 & 2.md",
     "03 - Resources/Excalidraw Shit/ED-202409051153.excalidraw.md",
     "03 - Resources/Excalidraw Shit/Neon-22.excalidraw.md",
-    "03 - Resources/Excalidraw Shit/Calcium-44.md",
-    "03 - Resources/Excalidraw Shit/Lewis_Phosphorus.excalidraw.md",
     "03 - Resources/Excalidraw Shit",
-    "03 - Resources/Periodic Table.md",
-    "Indicator Chart.md",
-    "01 - Projects/SNC 4M - Lab No. 1/Hypothesis.md",
-    "Benedict Solution.md",
-    "01 - Projects/SNC 4M - Lab No. 1/Pre Lab Questions.md",
-    "04 - Permanent/Nucleic Acids(DNA or RNA).md",
-    "03 - Resources/Macronutrients.md",
-    "03 - Resources/Monomer.md",
     "01 - Projects/SNC 4M - Lab No. 1",
-    "03 - Resources/Polyatomic Chart.md",
-    "03 - Resources/Delta.md",
-    "02 - Areas/Homework/Math - Functions/Functions - Worksheet N. 3, Sec. 2.md",
     "02 - Areas/Homework/Math - Functions",
     "02 - Areas/Homework/Chemistry",
-    "06 - Daily/20240904.md",
-    "03 - Resources/Periodic Elements/Vanadium.md",
-    "05 - Fleeting/Chemistry - Finding Electrons, Neutrons, and Protons.md",
-    "03 - Resources/Excalidraw Shit/Amino Acid Diagram.excalidraw.md",
-    "04 - Permanent/Protein.md",
-    "04 - Permanent/Isotopic Notation.md",
     "02 - Areas/Homework"
   ]
 }
