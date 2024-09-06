@@ -1,2 +1,2 @@
-# PRODIGALITY-ACT-II-CRESENDO-CLIMAX
-Prodigality; the excessive spending of wealth on material or useless goods for the sake of luxury.
+# My Obsidian Vault
+This is a repository where I store all the notes that I create so that they can be accessed remotely.
