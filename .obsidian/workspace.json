@@ -1,0 +1,293 @@
+{
+  "main": {
+    "id": "ac11a5637665acb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6083a95cfaf63d1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca1f91352d7e6ea4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "dd24faa8ae9435ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/SNC 4M - Lab No. 1/Identifying Macromolecules in Food Lab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b45040ff461227c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/Homework/Chemistry/Chemistry - Pg. 19 & 21, 3-5 & 3-10 (-6).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "949d96b17cf1425f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/Homework/Chemistry/Chemistry - Pg. 19 & 21, 3-5 & 3-10 (-6).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56788e890b9c1fac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Daily/20240905.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11432bb0b8d643b3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "03 - Resources/Excalidraw Shit/Neon-22.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "f3105d84c6b3ed32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/Periodic Table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed67563d611ec316",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/SNC 4M - Lab No. 1/Hypothesis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6579ba0c56d6943",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ceb900cdadfdb51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "586f464d6ca25b54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "210c6c90a63ef5e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56200829176dc3ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "15ee3ac31a98bc10",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304.5
+  },
+  "right": {
+    "id": "0911702e95b02f6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "324d496b8e96a33d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4624683eb2dee43",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d5978fb702d71f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c48270e65ad69de3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f36c77e719de1905",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "9482db61a3be2e97",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "d61ce0fe815565ce",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "command-palette:Open command palette": true,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "zk-prefixer:Create new unique note": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": true,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "ca1f91352d7e6ea4",
+  "lastOpenFiles": [
+    "01 - Projects/SNC 4M - Lab No. 1/Identifying Macromolecules in Food Lab.md",
+    "06 - Daily/20240905.md",
+    "02 - Areas/Homework/Chemistry/Chemistry - Pg. 19 & 21, 3-5 & 3-10 (-6).md",
+    "03 - Resources/Excalidraw Shit/Gold-107.md",
+    "02 - Areas/Homework/Chemistry/Chemistry - Pg. 19, Q. 1 & 2.md",
+    "03 - Resources/Excalidraw Shit/ED-202409051153.excalidraw.md",
+    "03 - Resources/Excalidraw Shit/Neon-22.excalidraw.md",
+    "03 - Resources/Excalidraw Shit/Calcium-44.md",
+    "03 - Resources/Excalidraw Shit/Lewis_Phosphorus.excalidraw.md",
+    "03 - Resources/Excalidraw Shit",
+    "03 - Resources/Periodic Table.md",
+    "Indicator Chart.md",
+    "01 - Projects/SNC 4M - Lab No. 1/Hypothesis.md",
+    "Benedict Solution.md",
+    "01 - Projects/SNC 4M - Lab No. 1/Pre Lab Questions.md",
+    "04 - Permanent/Nucleic Acids(DNA or RNA).md",
+    "03 - Resources/Macronutrients.md",
+    "03 - Resources/Monomer.md",
+    "01 - Projects/SNC 4M - Lab No. 1",
+    "03 - Resources/Polyatomic Chart.md",
+    "03 - Resources/Delta.md",
+    "02 - Areas/Homework/Math - Functions/Functions - Worksheet N. 3, Sec. 2.md",
+    "02 - Areas/Homework/Math - Functions",
+    "02 - Areas/Homework/Chemistry",
+    "06 - Daily/20240904.md",
+    "03 - Resources/Periodic Elements/Vanadium.md",
+    "05 - Fleeting/Chemistry - Finding Electrons, Neutrons, and Protons.md",
+    "03 - Resources/Excalidraw Shit/Amino Acid Diagram.excalidraw.md",
+    "04 - Permanent/Protein.md",
+    "04 - Permanent/Isotopic Notation.md",
+    "02 - Areas/Homework"
+  ]
+}

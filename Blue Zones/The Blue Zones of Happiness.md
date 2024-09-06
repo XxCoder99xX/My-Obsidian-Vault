@@ -1,0 +1,1 @@
+The Blue Zones of Happiness is a book by Dan Buettner about how to be more happy with your life. It describes the three branches of happiness, [[Pleasure - The Material Life]], [[Purpose - Reason to Live]], and [[Humility - Grateful for the Small Things]]. The author gives it's readers a list of strategies to drastically increase the quality of their lives.
