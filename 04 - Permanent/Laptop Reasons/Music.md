@@ -1,0 +1,1 @@
+With the ban on YouTube, I need a way to use some sort of music to concentrate. Music helps me *become more focused, and therefore a better student.* ([[L-13-1-1|Law 13]]) 
