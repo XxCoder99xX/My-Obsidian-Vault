@@ -22,5 +22,8 @@
   "obsidian-markmind",
   "highlightr-plugin",
   "obsidian-latex-suite",
-  "obsidian-git"
+  "obsidian-git",
+  "vim-toggle",
+  "obsidian-charts",
+  "obsidian-functionplot"
 ]

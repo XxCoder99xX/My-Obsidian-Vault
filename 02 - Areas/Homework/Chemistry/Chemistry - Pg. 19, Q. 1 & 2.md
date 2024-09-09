@@ -1,3 +1,6 @@
+---
+tags: Homework
+---
 # Chemistry Homework - Pg. 19, Q. 1 & 2
 
 ## Question 1

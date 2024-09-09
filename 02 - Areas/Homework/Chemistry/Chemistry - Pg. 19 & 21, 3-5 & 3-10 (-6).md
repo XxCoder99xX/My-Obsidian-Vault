@@ -1,3 +1,6 @@
+---
+tags: Homework
+---
 # Chemistry - Pg. 19 & 21, 3-5 & 3-10 (-6) (Take Two since first try corrupted)
 
 ## Page 19
@@ -19,7 +22,7 @@ Therefore the average mass of Bromine is 79.90
 ## Page 21
 
 ### Question 3
-![[Lewis_Phosphorus.excalidraw|128px]]
+![[03 - Resources/Excalidraw Diagrams/Lewis_Phosphorus.excalidraw|128px]]
 1. There are three unpaired valiance electrons, indicating a charge of -3
 2. This is Phosphorus.
 3. Phosphorus is element number 15, as shown by the 5 free electrons (2 and 8 (10) are all full; 2+8+5=15).
@@ -34,10 +37,10 @@ The reason averages are so common in in the periodic table is that elements with
 ## Question 9
 | Name       | Notation                            | Atomic # | Mass # | Proton # | Electron # | Neutron # |
 | ---------- | ----------------------------------- | -------- | ------ | -------- | ---------- | --------- |
-| Bromine-81 | ![[ED-202409051153.excalidraw\|64]] | 35       | 81     | 35       | 35         | 46        |
-| Neon-22    | ![[Neon-22.excalidraw\|64]]         | 10       | 22     | 10       | 10         | 12        |
-| Calcium-44 | ![[Calcium-44\|64]]                 | 20       | 44     | 20       | 20         | 24        |
-| Gold-107   | ![[Gold-107\|64]]                   | 47       | 107    | 47       | 47         | 60        |
+| Bromine-81 | ![[03 - Resources/Excalidraw Diagrams/ED-202409051153.excalidraw\|64]] | 35       | 81     | 35       | 35         | 46        |
+| Neon-22    | ![[03 - Resources/Excalidraw Diagrams/Neon-22.excalidraw\|64]]         | 10       | 22     | 10       | 10         | 12        |
+| Calcium-44 | ![[03 - Resources/Excalidraw Diagrams/Calcium-44\|64]]                 | 20       | 44     | 20       | 20         | 24        |
+| Gold-107   | ![[03 - Resources/Excalidraw Diagrams/Gold-107\|64]]                   | 47       | 107    | 47       | 47         | 60        |
 ## Question 10
 $$\displaylines{27.977*.9293+28.976*.0467+29.97*.031 = 28.28}$$
 Therefore the average mass of silicon is 28.28.
