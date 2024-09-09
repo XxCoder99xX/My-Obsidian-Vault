@@ -12,13 +12,14 @@
 #### Other
 Double stranded, helix shaped, and rest in the nucleus.
 
-# RNA
+---
+## RNA
 [[Monomer]]:Nucleotide
 	Ribose Sugar
 	Composed of Phosphate (PO4)
 	Bases: A, U, C, or G
 	A+T, C+G
-##### Functions
+### Functions
 	Decodes the DNA and creates protein form it.
 #### Other
 Single stranded, and can exit in the nucleus.

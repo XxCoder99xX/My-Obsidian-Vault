@@ -11,8 +11,12 @@
             "id": "ca1f91352d7e6ea4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/SNC 4M - Lab No. 1/Results.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -40,41 +44,15 @@
             }
           },
           {
-            "id": "11432bb0b8d643b3",
+            "id": "5ec02284750911f2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "03 - Resources/Excalidraw Shit/Neon-22.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "f3105d84c6b3ed32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/Periodic Table.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed67563d611ec316",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/SNC 4M - Lab No. 1/Hypothesis.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Areas/Homework/Chemistry/Chemistry - Pg. 19 & 21, 3-5 & 3-10 (-6).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/Homework/Chemistry/Chemistry - Pg. 19 & 21, 3-5 & 3-10 (-6).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 - Areas/Homework/Chemistry/Chemistry - Pg. 19 & 21, 3-5 & 3-10 (-6).md"
-              }
+              "state": {}
             }
           },
           {
@@ -225,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 903.5
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,36 +219,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b45040ff461227c7",
+  "active": "5ec02284750911f2",
   "lastOpenFiles": [
+    "01 - Projects/SNC 4M - Lab No. 1/Identifying Macromolecules in Food Lab.md",
+    "01 - Projects/SNC 4M - Lab No. 1/Indicator Chart.md",
+    "01 - Projects/SNC 4M - Lab No. 1/Pre Lab Questions.md",
+    "06 - Daily/20240907.md",
+    "04 - Permanent/Carbs.md",
+    "01 - Projects/SNC 4M - Lab No. 1/Results.md",
+    "01 - Projects/SNC 4M - Lab No. 1/Hypothesis.md",
+    "03 - Resources/Benedict Solution.md",
+    "03 - Resources/Imagery/Biuret_Test_2.jpg",
+    "01 - Projects/Placeholder.md",
+    "03 - Resources/Imagery",
+    "Biuret_Test_2 1.jpg",
+    "02 - Areas/Homework/Chemistry/Chemistry - Pg. 19 & 21, 3-5 & 3-10 (-6).md",
+    "03 - Resources/Iodine Solution.md",
+    "03 - Resources/Delta.md",
+    "03 - Resources/Imagery/Excalidraw Shit/Neon-22.excalidraw.md",
+    "03 - Resources/Macronutrients.md",
+    "03 - Resources/Periodic Table.md",
+    "04 - Permanent/Nucleic Acids(DNA or RNA).md",
+    "04 - Permanent/Isotopic Notation.md",
+    "04 - Permanent/Fats.md",
+    "06 - Daily/20240905.md",
+    "06 - Daily/Placeholder.md",
+    "README.md",
     "03 - Resources/Blue Zones/Three Types of Happiness/Humility - Grateful for the Small Things.md",
     "03 - Resources/Blue Zones/Three Types of Happiness/Purpose - Reason to Live.md",
     "03 - Resources/Blue Zones/Three Types of Happiness/Pleasure - The Material Life.md",
-    "03 - Resources/Benedict Solution.md",
-    "04 - Permanent/Isotopic Notation.md",
-    "02 - Areas/Homework/Chemistry/Chemistry - Pg. 19 & 21, 3-5 & 3-10 (-6).md",
     "04 - Permanent/Alpha - Exercise.md",
-    "04 - Permanent/Alejandro Zuniga.md",
-    "Football.md",
-    "Xi - Books.md",
-    "03 - Resources/Blue Zones/The Blue Zones of Happiness.md",
-    "Workout Routine.md",
-    "Nutritional Guide & Requirements.md",
-    "Legs - ...Legs..md",
-    "Genesis..md",
-    "Gamma - Clubs.md",
-    "Film.md",
-    "Delta - Journal Entries.md",
-    "06 - Daily/20240905.md",
-    "README.md",
     "New folder",
-    "06 - Daily/20240904.md",
-    "01 - Projects/SNC 4M - Lab No. 1/Identifying Macromolecules in Food Lab.md",
-    "03 - Resources/Excalidraw Shit/Gold-107.md",
-    "02 - Areas/Homework/Chemistry/Chemistry - Pg. 19, Q. 1 & 2.md",
-    "03 - Resources/Excalidraw Shit/ED-202409051153.excalidraw.md",
-    "03 - Resources/Excalidraw Shit/Neon-22.excalidraw.md",
-    "03 - Resources/Excalidraw Shit",
+    "03 - Resources/Imagery/Excalidraw Shit",
     "01 - Projects/SNC 4M - Lab No. 1",
     "02 - Areas/Homework/Math - Functions",
     "02 - Areas/Homework/Chemistry",

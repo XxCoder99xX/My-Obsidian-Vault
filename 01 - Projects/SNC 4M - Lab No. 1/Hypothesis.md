@@ -8,4 +8,4 @@ This document is a prediction of which macros will be found in each of the exhib
 ## Bread Crumbs
 *If* bread crumbs are submerged in [[Benedict Solution]] *then* it should cause a change in the color of the crumbs *because* the complex starch should react.
 ## Cream
-*If* cream is mixed with
+*If* cream is mixed with [[Sudan IV]], *then* the Sudan IV should float above it *because* 
