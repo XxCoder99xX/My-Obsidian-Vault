@@ -91,9 +91,9 @@
             "id": "6a9367d1bfa71e3b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "oneyear.png"
+                "file": "03 - Resources/Excalidraw Diagrams/ED-202409072333.excalidraw.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "oneyear.png",
+                "file": "03 - Resources/Excalidraw Diagrams/ED-202409072333.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "oneyear.png",
+                "file": "03 - Resources/Excalidraw Diagrams/ED-202409072333.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "oneyear.png"
+                "file": "03 - Resources/Excalidraw Diagrams/ED-202409072333.excalidraw.md"
               }
             }
           },
@@ -271,6 +271,13 @@
   },
   "active": "6a9367d1bfa71e3b",
   "lastOpenFiles": [
+    "03 - Resources/Excalidraw Diagrams/Funi lil' goober.md",
+    "03 - Resources/Excalidraw Diagrams/ED-202409072333.excalidraw.md",
+    "03 - Resources/Excalidraw Diagrams/ED-202409072327.excalidraw.md",
+    "03 - Resources/Excalidraw Diagrams/ED-202409072320.excalidraw.md",
+    "03 - Resources/Excalidraw Diagrams/ED-202409051153.excalidraw.md",
+    "03 - Resources/Excalidraw Diagrams/ED-202409041238.excalidraw.md",
+    "oneyear.png",
     "03 - Resources/Polyatomic Chart.md",
     "04 - Permanent/Carbs.md",
     "04 - Permanent/Fats.md",
@@ -286,11 +293,6 @@
     "02 - Areas/Homework/Math - Functions/Functions - Pg. 10, Sec 1, 2, 4ac, & 11.md",
     "02 - Areas/Homework/Math - Functions/Functions - Worksheet N. 3, Sec. 2.md",
     "03 - Resources/Excalidraw Diagrams/Lewis_Phosphorus.excalidraw.md",
-    "03 - Resources/Excalidraw Diagrams/ED-202409072327.excalidraw.md",
-    "03 - Resources/Excalidraw Diagrams/ED-202409072333.excalidraw.md",
-    "03 - Resources/Excalidraw Diagrams/ED-202409051153.excalidraw.md",
-    "03 - Resources/Excalidraw Diagrams/ED-202409041238.excalidraw.md",
-    "03 - Resources/Excalidraw Diagrams/ED-202409072320.excalidraw.md",
     "03 - Resources/Excalidraw Diagrams/Amino Acid Diagram.excalidraw.md",
     "06 - Daily/20240909.md",
     "03 - Resources/f11sb_1_1.pdf",
@@ -298,7 +300,6 @@
     "06 - Daily/20240907.md",
     "02 - Areas/Homework/Functions",
     "01 - Projects/Placeholder.md",
-    "().md",
     "03 - Resources/Imagery/Biuret_Test_2.jpg",
     "03 - Resources/Imagery",
     "Biuret_Test_2 1.jpg",
