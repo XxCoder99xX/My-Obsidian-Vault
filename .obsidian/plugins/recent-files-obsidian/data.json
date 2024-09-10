@@ -1,60 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Functions - Worksheet N. 3, Sec. 2",
-      "path": "02 - Areas/Homework/Math - Functions/Functions - Worksheet N. 3, Sec. 2.md"
+      "basename": "oneyear",
+      "path": "oneyear.png"
     },
     {
-      "basename": "20240909",
-      "path": "06 - Daily/20240909.md"
+      "basename": "Polyatomic Chart",
+      "path": "03 - Resources/Polyatomic Chart.md"
     },
     {
-      "basename": "Functions - Pg. 10, Sec 1, 2, 4ac, & 11",
-      "path": "02 - Areas/Homework/Math - Functions/Functions - Pg. 10, Sec 1, 2, 4ac, & 11.md"
+      "basename": "Carbs",
+      "path": "04 - Permanent/Carbs.md"
     },
     {
-      "basename": "Identifying Macromolecules in Food Lab",
-      "path": "01 - Projects/SNC 4M - Lab No. 1/Identifying Macromolecules in Food Lab.md"
+      "basename": "Fats",
+      "path": "04 - Permanent/Fats.md"
     },
     {
-      "basename": "f11sb_1_1",
-      "path": "03 - Resources/f11sb_1_1.pdf"
+      "basename": "Derivatives",
+      "path": "04 - Permanent/Derivatives.md"
     },
     {
-      "basename": "20240908",
-      "path": "06 - Daily/20240908.md"
+      "basename": "Isotopic Notation",
+      "path": "04 - Permanent/Isotopic Notation.md"
     },
     {
-      "basename": "Chemistry - Pg. 19, Q. 1 & 2",
-      "path": "02 - Areas/Homework/Chemistry/Chemistry - Pg. 19, Q. 1 & 2.md"
-    },
-    {
-      "basename": "Chemistry - Pg. 19 & 21, 3-5 & 3-10 (-6)",
-      "path": "02 - Areas/Homework/Chemistry/Chemistry - Pg. 19 & 21, 3-5 & 3-10 (-6).md"
-    },
-    {
-      "basename": "ED-202409072327.excalidraw",
-      "path": "03 - Resources/Excalidraw Diagrams/ED-202409072327.excalidraw.md"
-    },
-    {
-      "basename": "ED-202409072320.excalidraw",
-      "path": "03 - Resources/Excalidraw Diagrams/ED-202409072320.excalidraw.md"
-    },
-    {
-      "basename": "ED-202409072333.excalidraw",
-      "path": "03 - Resources/Excalidraw Diagrams/ED-202409072333.excalidraw.md"
-    },
-    {
-      "basename": "Amino Acid Diagram.excalidraw",
-      "path": "03 - Resources/Excalidraw Diagrams/Amino Acid Diagram.excalidraw.md"
-    },
-    {
-      "basename": "20240907",
-      "path": "06 - Daily/20240907.md"
-    },
-    {
-      "basename": "Placeholder",
-      "path": "01 - Projects/Placeholder.md"
+      "basename": "Results",
+      "path": "01 - Projects/SNC 4M - Lab No. 1/Results.md"
     },
     {
       "basename": "Indicator Chart",
@@ -65,8 +37,76 @@
       "path": "01 - Projects/SNC 4M - Lab No. 1/Pre Lab Questions.md"
     },
     {
-      "basename": "Results",
-      "path": "01 - Projects/SNC 4M - Lab No. 1/Results.md"
+      "basename": "Hypothesis",
+      "path": "01 - Projects/SNC 4M - Lab No. 1/Hypothesis.md"
+    },
+    {
+      "basename": "Identifying Macromolecules in Food Lab",
+      "path": "01 - Projects/SNC 4M - Lab No. 1/Identifying Macromolecules in Food Lab.md"
+    },
+    {
+      "basename": "Chemistry - Pg. 19 & 21, 3-5 & 3-10 (-6)",
+      "path": "02 - Areas/Homework/Chemistry/Chemistry - Pg. 19 & 21, 3-5 & 3-10 (-6).md"
+    },
+    {
+      "basename": "Chemistry - Pg. 19, Q. 1 & 2",
+      "path": "02 - Areas/Homework/Chemistry/Chemistry - Pg. 19, Q. 1 & 2.md"
+    },
+    {
+      "basename": "Functions - Pg. 10, Sec 1, 2, 4ac, & 11",
+      "path": "02 - Areas/Homework/Math - Functions/Functions - Pg. 10, Sec 1, 2, 4ac, & 11.md"
+    },
+    {
+      "basename": "Functions - Worksheet N. 3, Sec. 2",
+      "path": "02 - Areas/Homework/Math - Functions/Functions - Worksheet N. 3, Sec. 2.md"
+    },
+    {
+      "basename": "Lewis_Phosphorus.excalidraw",
+      "path": "03 - Resources/Excalidraw Diagrams/Lewis_Phosphorus.excalidraw.md"
+    },
+    {
+      "basename": "ED-202409072327.excalidraw",
+      "path": "03 - Resources/Excalidraw Diagrams/ED-202409072327.excalidraw.md"
+    },
+    {
+      "basename": "ED-202409072333.excalidraw",
+      "path": "03 - Resources/Excalidraw Diagrams/ED-202409072333.excalidraw.md"
+    },
+    {
+      "basename": "ED-202409051153.excalidraw",
+      "path": "03 - Resources/Excalidraw Diagrams/ED-202409051153.excalidraw.md"
+    },
+    {
+      "basename": "ED-202409041238.excalidraw",
+      "path": "03 - Resources/Excalidraw Diagrams/ED-202409041238.excalidraw.md"
+    },
+    {
+      "basename": "ED-202409072320.excalidraw",
+      "path": "03 - Resources/Excalidraw Diagrams/ED-202409072320.excalidraw.md"
+    },
+    {
+      "basename": "Amino Acid Diagram.excalidraw",
+      "path": "03 - Resources/Excalidraw Diagrams/Amino Acid Diagram.excalidraw.md"
+    },
+    {
+      "basename": "20240909",
+      "path": "06 - Daily/20240909.md"
+    },
+    {
+      "basename": "f11sb_1_1",
+      "path": "03 - Resources/f11sb_1_1.pdf"
+    },
+    {
+      "basename": "20240908",
+      "path": "06 - Daily/20240908.md"
+    },
+    {
+      "basename": "20240907",
+      "path": "06 - Daily/20240907.md"
+    },
+    {
+      "basename": "Placeholder",
+      "path": "01 - Projects/Placeholder.md"
     },
     {
       "basename": "48 Laws to Power",
@@ -89,14 +129,6 @@
       "path": "04 - Permanent/48 Laws/L-13-1-1.md"
     },
     {
-      "basename": "Carbs",
-      "path": "04 - Permanent/Carbs.md"
-    },
-    {
-      "basename": "Hypothesis",
-      "path": "01 - Projects/SNC 4M - Lab No. 1/Hypothesis.md"
-    },
-    {
       "basename": "Delta",
       "path": "03 - Resources/Delta.md"
     },
@@ -115,14 +147,6 @@
     {
       "basename": "Nucleic Acids(DNA or RNA)",
       "path": "04 - Permanent/Nucleic Acids(DNA or RNA).md"
-    },
-    {
-      "basename": "Isotopic Notation",
-      "path": "04 - Permanent/Isotopic Notation.md"
-    },
-    {
-      "basename": "Fats",
-      "path": "04 - Permanent/Fats.md"
     },
     {
       "basename": "20240905",
@@ -153,10 +177,6 @@
       "path": "03 - Resources/Monomer.md"
     },
     {
-      "basename": "Polyatomic Chart",
-      "path": "03 - Resources/Polyatomic Chart.md"
-    },
-    {
       "basename": "Vanadium",
       "path": "03 - Resources/Periodic Elements/Vanadium.md"
     },
@@ -179,22 +199,6 @@
     {
       "basename": "Potassium",
       "path": "03 - Resources/Periodic Elements/Potassium.md"
-    },
-    {
-      "basename": "Hydrogen",
-      "path": "03 - Resources/Periodic Elements/Hydrogen.md"
-    },
-    {
-      "basename": "ED-202409041238.excalidraw",
-      "path": "03 - Resources/Imagery/Excalidraw Shit/ED-202409041238.excalidraw.md"
-    },
-    {
-      "basename": "20240903",
-      "path": "06 - Daily/20240903.md"
-    },
-    {
-      "basename": "Placeholder",
-      "path": "00 - Maps of Content/Placeholder.md"
     }
   ],
   "omittedPaths": [],
