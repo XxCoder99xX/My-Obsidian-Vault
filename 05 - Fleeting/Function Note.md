@@ -18,7 +18,7 @@ $$y=\displaylines{1^2-4(1)-7\\
 
 ### Function Notation
 given $$f(x)=x^2-4x-7$$
-find $$f(1)$$
+find f(1)
 $$f(1)=1^2-4(1)-7,1-4-7,=10$$
 
 ## Practice
