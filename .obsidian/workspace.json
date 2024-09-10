@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Daily/20240909.md",
+                "file": "01 - Projects/SNC 4M - Lab No. 1/Identifying Macromolecules in Food Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Daily/20240909.md",
+                "file": "01 - Projects/SNC 4M - Lab No. 1/Identifying Macromolecules in Food Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Daily/20240909.md"
+                "file": "01 - Projects/SNC 4M - Lab No. 1/Identifying Macromolecules in Food Lab.md"
               }
             }
           },
@@ -213,17 +213,9 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "0678ae860f706c9d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -247,7 +239,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "586f464d6ca25b54",
+  "active": "d61ce0fe815565ce",
   "lastOpenFiles": [
     "01 - Projects/SNC 4M - Lab No. 1/Identifying Macromolecules in Food Lab.md",
     "02 - Areas/Homework/Math - Functions/Functions - Worksheet N. 3, Sec. 2.md",
