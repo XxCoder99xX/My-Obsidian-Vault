@@ -1,3 +1,8 @@
+---
+tags:
+  - Homework
+  - Chemistry
+---
 # Chemistry - Finding Electrons, Neutrons, and Protons
 ## Cobalt-60:
 	Protons: 27

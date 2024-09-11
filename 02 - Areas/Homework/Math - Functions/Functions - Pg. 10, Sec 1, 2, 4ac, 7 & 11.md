@@ -1,5 +1,7 @@
 ---
-tags: Homework
+tags:
+  - Homework
+  - Functions
 ---
 # Functions - Pg. 10, Sec 1, 2, 4ac, 7 & 11
 

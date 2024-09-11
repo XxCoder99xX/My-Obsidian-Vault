@@ -1,5 +1,7 @@
 ---
-tags: Homework
+tags:
+  - Homework
+  - Chemistry
 ---
 # Chemistry Homework - Pg. 19, Q. 1 & 2
 

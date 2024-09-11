@@ -1,5 +1,7 @@
 ---
-tags: Homework
+tags:
+  - Homework
+  - Chemistry
 ---
 # Chemistry - Pg. 19 & 21, 3-5 & 3-10 (-6) (Take Two since first try corrupted)
 

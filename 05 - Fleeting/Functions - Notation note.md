@@ -1,3 +1,6 @@
+---
+tags: Functions
+---
 # Functions - Notation Note
 
 ## Part A: Is it a Function?

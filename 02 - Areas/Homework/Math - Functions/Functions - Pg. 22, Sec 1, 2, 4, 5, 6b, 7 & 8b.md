@@ -1,3 +1,8 @@
+---
+tags:
+  - Homework
+  - Functions
+---
 # Functions - Pg. 22, Sec 1, 2, 4, 5, 6b, 7 & 8b
 
 ## Sec 1: Solve $$\displaylines{f(x)=2-3x\\}$$

@@ -8,115 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ca1f91352d7e6ea4",
+            "id": "acf2575a97e8c486",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/SNC 4M - Lab No. 1/Identifying Macromolecules in Food Lab.md",
+                "file": "05 - Fleeting/Evaluating Functions (REVIEW!).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b45040ff461227c7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "10e869e17c46d8e1",
+            "id": "18b03c59b793e508",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Homework/Math - Functions/Functions - Pg. 10, Sec 1, 2, 4ac, & 11.md",
+                "file": "06 - Daily/20240911.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d171b5274541e9c4",
+            "id": "e712c79ea2b8aa87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Homework/Math - Functions/Functions - Pg. 10, Sec 1, 2, 4ac, & 11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4629d6c76cec5c70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Homework/Math - Functions/Functions - Pg. 10, Sec 1, 2, 4ac, & 11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d234b3657f5c51a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - Fleeting/Reasons why I need my laptop in school.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31741984ae3abbc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Homework/Math - Functions/Functions - Pg. 22, Sec 1, 2, 4, 5, 6b, 7 & 8b.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf5c08ab1e4918ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Homework/Math - Functions/Functions - Pg. 22, Sec 1, 2, 4, 5, 6b, 7 & 8b.md",
+                "file": "06 - Daily/20240910.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
-      },
-      {
-        "id": "0d12e93216290250",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "284ba265717de22c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "03 - Resources/Imagery/f11sb_1_2.pdf"
-              }
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Areas/Homework/Math - Functions/Functions - Pg. 22, Sec 1, 2, 4, 5, 6b, 7 & 8b.md",
+                "file": "06 - Daily/20240911.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/Homework/Math - Functions/Functions - Pg. 22, Sec 1, 2, 4, 5, 6b, 7 & 8b.md",
+                "file": "06 - Daily/20240911.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Areas/Homework/Math - Functions/Functions - Pg. 22, Sec 1, 2, 4, 5, 6b, 7 & 8b.md"
+                "file": "06 - Daily/20240911.md"
               }
             }
           },
@@ -278,45 +206,46 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "cf5c08ab1e4918ef",
+  "active": "18b03c59b793e508",
   "lastOpenFiles": [
-    "06 - Daily/20240909.md",
+    "05 - Fleeting/Evaluating Functions (REVIEW!).md",
+    "06 - Daily/20240911.md",
+    "06 - Daily/20240910.md",
     "02 - Areas/Homework/Math - Functions/Functions - Pg. 22, Sec 1, 2, 4, 5, 6b, 7 & 8b.md",
-    "03 - Resources/Imagery/f11sb_1_2.pdf",
-    "03 - Resources/Imagery/f11sb_1_2.pdf.crdownload",
+    "02 - Areas/Homework/Chemistry/Chemistry - Pg. 63, Sec. 1-4.md",
+    "04 - Permanent/Health Science/Multivitamin Opinion Paper.md",
+    "04 - Permanent/Health Science/Protein.md",
+    "04 - Permanent/Derivatives.md",
+    "04 - Permanent/Health Science/Fats.md",
+    "04 - Permanent/Isotopic Notation.md",
+    "04 - Permanent/Health Science/Carbs.md",
+    "04 - Permanent/Health Science",
+    "02 - Areas/Football Documentation/Kenora Findings 2024.md",
+    "05 - Fleeting/Reasons why I need my laptop in school.md",
+    "05 - Fleeting/The Good in Evil.md",
+    "03 - Resources/Benedict Solution.md",
+    "03 - Resources/Delta.md",
+    "03 - Resources/Football.md",
+    "03 - Resources/Iodine Solution.md",
+    "03 - Resources/Macronutrients.md",
+    "03 - Resources/Monomer.md",
+    "03 - Resources/Polyatomic Chart.md",
+    "03 - Resources/Periodic Table.md",
+    "05 - Fleeting/7.1 and 7.2 Key Terms.md",
     "05 - Fleeting/Functions - Notation note.md",
     "05 - Fleeting/Function Note.md",
-    "06 - Daily/Weekly Nutrition Graph.md",
-    "06 - Daily/Placeholder.md",
-    "03 - Resources/Books/48 Laws to Power.md",
-    "03 - Resources/Delta.md",
-    "03 - Resources/Books/f11sb_1_1.pdf",
-    "03 - Resources/f11sb_1_1.pdf.md",
-    "01 - Projects/SNC 4M - Lab No. 1/Identifying Macromolecules in Food Lab.md",
-    "Pasted image 20240909150903.png",
-    "f11sb_1_1.pdf.md",
-    "03 - Resources/Excalidraw/ED-202409091258.excalidraw.md",
-    "03 - Resources/Excalidraw/ED-202409091256.excalidraw.md",
-    "03 - Resources/Excalidraw/ED-202409091253.excalidraw.md",
-    "03 - Resources/Excalidraw",
-    "02 - Areas/Homework/Math - Functions/Functions - Pg. 10, Sec 1, 2, 4ac, 7 & 11.md",
-    "02 - Areas/Homework/Chemistry/Chemistry - Pg. 45-47,Q.1,4,6,7,9,17.md",
     "05 - Fleeting/Chemistry - Finding Electrons, Neutrons, and Protons.md",
-    "05 - Fleeting/The Tale of a Cursed Prodigy/The Anatomy of a Special Breed.md",
-    "06 - Daily/20240904.md",
-    "06 - Daily/2024-08-26.md",
-    "06 - Daily/2024-08-23.md",
-    "06 - Daily/2024-08-22.md",
-    "06 - Daily/2024-08-21.md",
-    "06 - Daily/2024-08-14.md",
-    "06 - Daily/2024-08-15.md",
+    "03 - Resources/Imagery/f11sb_1_2.pdf",
+    "03 - Resources/Imagery/f11sb_1_2.pdf.crdownload",
+    "03 - Resources/Books/f11sb_1_1.pdf",
+    "Pasted image 20240909150903.png",
+    "03 - Resources/Excalidraw",
     "02 - Areas/Homework/Functions",
     "03 - Resources/Imagery/Biuret_Test_2.jpg",
     "03 - Resources/Imagery",
     "Biuret_Test_2 1.jpg",
     "New folder",
     "03 - Resources/Imagery/Excalidraw Shit",
-    "01 - Projects/SNC 4M - Lab No. 1",
-    "02 - Areas/Homework/Math - Functions"
+    "01 - Projects/SNC 4M - Lab No. 1"
   ]
 }

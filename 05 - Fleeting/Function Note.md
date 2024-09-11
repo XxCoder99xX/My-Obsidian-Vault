@@ -1,3 +1,6 @@
+---
+tags: Functions
+---
 # Function Notation
 
 ## Representing Functions

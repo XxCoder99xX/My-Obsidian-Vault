@@ -1,5 +1,7 @@
 ---
-tags: Homework
+tags:
+  - Homework
+  - Functions
 ---
 # Functions - Worksheet N. 3, Sec. 2
 

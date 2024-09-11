@@ -1,4 +1,8 @@
-
+---
+tags:
+  - Homework
+  - Chemistry
+---
 # Chemistry - Pg. 45-47,Q.1,4,6,7,9,17
 
 ## Question 1: e

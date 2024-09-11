@@ -1,5 +1,6 @@
 ---
-cssclasses: []
+tags:
+  - Chemistry
 ---
 
 A monomer is molecule that is repeated over and over again to form macronutrients. 
